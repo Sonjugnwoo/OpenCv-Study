@@ -36,5 +36,14 @@
     <ClCompile Include="히스토그램 평활화.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="임계화.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="엣지 검출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="형태학.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
