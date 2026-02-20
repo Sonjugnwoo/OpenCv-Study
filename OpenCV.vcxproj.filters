@@ -24,5 +24,17 @@
     <ClCompile Include="비디오 캡처,재생.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="색공간 변환.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="크기, 회전, 이동.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="블러, 샤프닝.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="히스토그램 평활화.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
