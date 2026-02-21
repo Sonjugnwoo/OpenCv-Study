@@ -45,5 +45,14 @@
     <ClCompile Include="형태학.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="컨투어 찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="템플릿 매칭 기본.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="서브픽셀 보정.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
