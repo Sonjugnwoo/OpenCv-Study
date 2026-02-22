@@ -54,5 +54,14 @@
     <ClCompile Include="서브픽셀 보정.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Hough 선,원 검출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="히스토그램 비교.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="얼굴 검출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
